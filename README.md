@@ -18,7 +18,7 @@ This device has the purpose of tracking a person's condition, as well as simplif
 The device sends SMS, reads the pulse and counts the steps.<br>
 These are only small features of this GPS tracker. If desired, you can add a call function or collect / transmit additional data, since the boards still have a lot of functionality.<br>
 
-The code is written in C++. <br>
+The code is written in C++ (Arduino IDE). <br>
 The i2c data bus was used to connect the components.<br>
 The price at the time of assembly was $26. All components are purchased in China.<br>
 
