@@ -20,3 +20,4 @@ These are only small features of this GPS tracker. If desired, you can add a cal
 
 The code is written in C.
 The i2c data bus was used to connect the components.
+The price at the time of assembly was $26. All components are purchased in China.
